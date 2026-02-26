@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Rizqi 👋<br><br>I'm a **[Role, Web Developer]** based in [Lokasi]. I love building things that live on the internet.<br><br>- 📫 How to reach me: https://www.linkedin.com/in/moch-rizqi-hermawan-a1b81b35b/
+# Hi there, I'm Rizqi 👋<br><br>I'm a **Role, Web Developer** based in Indonesia, West Java, Bandung. I love building things that live on the internet.<br><br>- 📫 How to reach me: https://www.linkedin.com/in/moch-rizqi-hermawan-a1b81b35b/
 
 
 ## 🌐 Socials:
