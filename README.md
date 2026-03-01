@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Rizqi 👋<br><br>I'm a **Role, Web Developer** based in Indonesia, West Java, Bandung. I love coding and networking.<br><br>-📫 How to reach me: mochrizqihermawan615@gmail.com
+# Hi there, I'm Rizqi 👋<br><br>I'm a **Role, Web Developer** based in Indonesia, West Java, Bandung. I love coding and networking.<br><br>
 
 
 ## 🌐 Socials:
